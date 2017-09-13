@@ -12,11 +12,11 @@ Django REST Framework 3.6.4
 If you dont have these software already then please install it
 You can verify it by running pip freeze in your command prompt
 
-Installation
-1)Download python from https://www.python.org/downloads/
-	then run python -V in cmd , it will shows version like Python 2.7.13
-2)pip install django
-3)pip install djangorestframework
+Installation:
+1) Download python from https://www.python.org/downloads/
+ then run python -V in cmd , it will shows version like Python 2.7.13
+2) pip install django
+3) pip install djangorestframework
 
 STEPS:
 1) Checkout the folder from GIT repository
